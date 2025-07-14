@@ -1,0 +1,10 @@
+Variable,Gap at P50,Gap at P75,Gap at P90
+CPV_agrupado,0.17,-0.103,-0.423
+act_type,0.146,-0.127,-0.447
+bidders,0.071,-0.202,-0.522
+contract_year,0.211,-0.062,-0.382
+covid_pandemic,0.139,-0.134,-0.454
+environmental,0.312,0.039,-0.281
+execution_dummy,0.146,-0.127,-0.447
+ln_base_price,0.256,-0.017,-0.337
+loc,0.194,-0.079,-0.399
